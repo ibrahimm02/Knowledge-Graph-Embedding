@@ -1,0 +1,162 @@
+http://www.semanticweb.org/in3067-inm713/restaurants#SweetPotato preferred_label Sweet potato
+http://www.semanticweb.org/in3067-inm713/restaurants#PizzaSupreme preferred_label Pizza supreme
+http://www.semanticweb.org/in3067-inm713/restaurants#GlutenFreeRestaurant preferred_label Gluten-free restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#Garlic preferred_label Garlic
+http://www.semanticweb.org/in3067-inm713/restaurants#Basil preferred_label Basil
+http://www.semanticweb.org/in3067-inm713/restaurants#Vegetable preferred_label Vegetable
+http://www.semanticweb.org/in3067-inm713/restaurants#Tomato preferred_label Tomato
+http://www.semanticweb.org/in3067-inm713/restaurants#Pizzeria preferred_label Pizzeria
+http://www.semanticweb.org/in3067-inm713/restaurants#FrenchRestaurant preferred_label French restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#JapaneseRestaurant preferred_label Japanese restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#Parmesan preferred_label Parmesan
+http://www.semanticweb.org/in3067-inm713/restaurants#MediterraneanRestaurant preferred_label Mediterranean restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#SeafoodPizza preferred_label Seafood pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#Restaurant preferred_label Restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#YellowPepper preferred_label Yellow pepper
+http://www.semanticweb.org/in3067-inm713/restaurants#CalifornianPizza preferred_label Californian pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#Food preferred_label Food
+http://www.semanticweb.org/in3067-inm713/restaurants#Pizza preferred_label Pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#VeganRestaurant preferred_label Vegan restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#Address preferred_label Address
+http://www.semanticweb.org/in3067-inm713/restaurants#Mozzarella preferred_label Mozzarella
+http://www.semanticweb.org/in3067-inm713/restaurants#Beef preferred_label Beef
+http://www.semanticweb.org/in3067-inm713/restaurants#Bakery preferred_label Bakery
+http://www.semanticweb.org/in3067-inm713/restaurants#BurgerPlace preferred_label Burger place
+http://www.semanticweb.org/in3067-inm713/restaurants#Potato preferred_label Potato
+http://www.semanticweb.org/in3067-inm713/restaurants#Scallops preferred_label Scallop
+http://www.semanticweb.org/in3067-inm713/restaurants#Prosciutto preferred_label Prosciutto
+http://www.semanticweb.org/in3067-inm713/restaurants#OliveOil preferred_label Olive oil
+http://www.semanticweb.org/in3067-inm713/restaurants#BarbecueSauce preferred_label Barbecue sause
+http://www.semanticweb.org/in3067-inm713/restaurants#MargheritaPizza preferred_label Margherita pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#IndianRestaurant preferred_label Indian restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#BlueCheese preferred_label Blue cheese
+http://www.semanticweb.org/in3067-inm713/restaurants#Herbs preferred_label Herbs
+http://www.semanticweb.org/in3067-inm713/restaurants#DaiyaCheese preferred_label Daiya cheese
+http://www.semanticweb.org/in3067-inm713/restaurants#VeganCheese preferred_label Vegan cheese
+http://www.semanticweb.org/in3067-inm713/restaurants#Meat preferred_label Meat
+http://www.semanticweb.org/in3067-inm713/restaurants#SushiRestaurant preferred_label Sushi restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#Salmon preferred_label Salmon
+http://www.semanticweb.org/in3067-inm713/restaurants#SeafoodRestaurant preferred_label Seafood restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#PizzaMarinara preferred_label Pizza marinara
+http://www.semanticweb.org/in3067-inm713/restaurants#MenuItem preferred_label Menu item
+http://www.semanticweb.org/in3067-inm713/restaurants#PlumTomato preferred_label Plum tomato
+http://www.semanticweb.org/in3067-inm713/restaurants#Spinach preferred_label Spinach
+http://www.semanticweb.org/in3067-inm713/restaurants#Eggplant preferred_label Eggplant
+http://www.semanticweb.org/in3067-inm713/restaurants#Ham preferred_label Ham
+http://www.semanticweb.org/in3067-inm713/restaurants#Olives preferred_label Olives
+http://www.semanticweb.org/in3067-inm713/restaurants#SeaFood preferred_label Seafood
+http://www.semanticweb.org/in3067-inm713/restaurants#Ricotta preferred_label Ricotta
+http://www.semanticweb.org/in3067-inm713/restaurants#VegetarianPizza preferred_label Vegetarian pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#State preferred_label State
+http://www.semanticweb.org/in3067-inm713/restaurants#CocktailBars preferred_label Cocktail bars
+http://www.semanticweb.org/in3067-inm713/restaurants#Feta preferred_label Feta
+http://www.semanticweb.org/in3067-inm713/restaurants#Bar preferred_label Bar
+http://www.semanticweb.org/in3067-inm713/restaurants#Club preferred_label Club
+http://www.semanticweb.org/in3067-inm713/restaurants#Sausage preferred_label Sausage
+http://www.semanticweb.org/in3067-inm713/restaurants#GreekRestaurant preferred_label Greek restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#SportsBar preferred_label Sports bar
+http://www.semanticweb.org/in3067-inm713/restaurants#PizzaBianca preferred_label Pizza bianca
+http://www.semanticweb.org/in3067-inm713/restaurants#WinterSquash preferred_label Winter squash
+http://www.semanticweb.org/in3067-inm713/restaurants#JapanesePizza preferred_label Japanese pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#Pineapple preferred_label Pineapple
+http://www.semanticweb.org/in3067-inm713/restaurants#City preferred_label City
+http://www.semanticweb.org/in3067-inm713/restaurants#Pub preferred_label Pub
+http://www.semanticweb.org/in3067-inm713/restaurants#JalapenoPepper preferred_label Jalapeno pepper
+http://www.semanticweb.org/in3067-inm713/restaurants#Gorgonzola preferred_label Gorgonzola
+http://www.semanticweb.org/in3067-inm713/restaurants#TomatoSauce preferred_label Tomato sauce
+http://www.semanticweb.org/in3067-inm713/restaurants#SweetPizza preferred_label Sweet pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#Seeds preferred_label Seeds
+http://www.semanticweb.org/in3067-inm713/restaurants#MeatPizza preferred_label Meat pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#MexicanRestaurant preferred_label Mexican restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#VeganPizza preferred_label Vegan pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#PineapplePizza preferred_label Pineapple pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#VegetarianRestaurant preferred_label Vegetarian restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#Mushroom preferred_label Mushroom
+http://www.semanticweb.org/in3067-inm713/restaurants#Zucchini preferred_label Zucchini
+http://www.semanticweb.org/in3067-inm713/restaurants#DietaryRestaurant preferred_label Dietary restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#BeansPizza preferred_label Beans pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#BlackOlives preferred_label Black olives
+http://www.semanticweb.org/in3067-inm713/restaurants#GoatCheese preferred_label Goat cheese
+http://www.semanticweb.org/in3067-inm713/restaurants#FetaPizza preferred_label Feta pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#Fruit preferred_label Fruit
+http://www.semanticweb.org/in3067-inm713/restaurants#RootVegetable preferred_label Root vegetable
+http://www.semanticweb.org/in3067-inm713/restaurants#Ingredient preferred_label Ingredient
+http://www.semanticweb.org/in3067-inm713/restaurants#ItemValue preferred_label Item value
+http://www.semanticweb.org/in3067-inm713/restaurants#Pumpkin preferred_label Pumpkin
+http://www.semanticweb.org/in3067-inm713/restaurants#ItalianRestaurant preferred_label Italian restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#Location preferred_label Location
+http://www.semanticweb.org/in3067-inm713/restaurants#KaraokeBar preferred_label Karaoke bar
+http://www.semanticweb.org/in3067-inm713/restaurants#ButternutSquash preferred_label ButternutSquash
+http://www.semanticweb.org/in3067-inm713/restaurants#HotSauce preferred_label Hot sauce
+http://www.semanticweb.org/in3067-inm713/restaurants#HawaiianPizza preferred_label Hawaiian pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#Tofu preferred_label Tofu
+http://www.semanticweb.org/in3067-inm713/restaurants#Mortadella preferred_label Mortadella
+http://www.semanticweb.org/in3067-inm713/restaurants#Pepper preferred_label Pepper
+http://www.semanticweb.org/in3067-inm713/restaurants#AmericanRestaurant preferred_label American restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#Pepperoni preferred_label Pepperoni
+http://www.semanticweb.org/in3067-inm713/restaurants#GourmetRestaurants preferred_label Gourmet restaurants
+http://www.semanticweb.org/in3067-inm713/restaurants#Artichokes preferred_label Artichoke
+http://www.semanticweb.org/in3067-inm713/restaurants#ChineseRestaurant preferred_label Chinese restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#Beans preferred_label Beans
+http://www.semanticweb.org/in3067-inm713/restaurants#Gastropub preferred_label Gastro pub
+http://www.semanticweb.org/in3067-inm713/restaurants#CoffeeShop preferred_label Coffee shop
+http://www.semanticweb.org/in3067-inm713/restaurants#Currency preferred_label Currency
+http://www.semanticweb.org/in3067-inm713/restaurants#Chorizo preferred_label Chorizo
+http://www.semanticweb.org/in3067-inm713/restaurants#Cheddar preferred_label Cheddar
+http://www.semanticweb.org/in3067-inm713/restaurants#Chicken preferred_label Chicken
+http://www.semanticweb.org/in3067-inm713/restaurants#Broccoli preferred_label Broccoli
+http://www.semanticweb.org/in3067-inm713/restaurants#Bacon preferred_label Bacon
+http://www.semanticweb.org/in3067-inm713/restaurants#GreenOlives preferred_label Green olives
+http://www.semanticweb.org/in3067-inm713/restaurants#AsianRestaurant preferred_label Asian restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#Country preferred_label Country
+http://www.semanticweb.org/in3067-inm713/restaurants#PizzaNapolitana preferred_label Pizza Napolitana
+http://www.semanticweb.org/in3067-inm713/restaurants#FruitPizza preferred_label Fruit pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#Sauce preferred_label Sauce
+http://www.semanticweb.org/in3067-inm713/restaurants#Marinara preferred_label Marinara
+http://www.semanticweb.org/in3067-inm713/restaurants#BeerPlace preferred_label Beer place
+http://www.semanticweb.org/in3067-inm713/restaurants#BarAndGrill preferred_label Bar and Grill
+http://www.semanticweb.org/in3067-inm713/restaurants#SpanishRestaurant preferred_label Spanish restaurant
+http://www.semanticweb.org/in3067-inm713/restaurants#BarbecuePizza preferred_label Barbecue pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#ChickenPizza preferred_label Chicken pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#Carrot preferred_label Carrot
+http://www.semanticweb.org/in3067-inm713/restaurants#MexicanPizza preferred_label Mexican pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#VeganIngredient preferred_label Vegan ingredient
+http://www.semanticweb.org/in3067-inm713/restaurants#PizzaNutella preferred_label Pizza Nutella
+http://www.semanticweb.org/in3067-inm713/restaurants#Tuna preferred_label Tuna
+http://www.semanticweb.org/in3067-inm713/restaurants#Meatballs preferred_label Meatballs
+http://www.semanticweb.org/in3067-inm713/restaurants#Capers preferred_label Capers
+http://www.semanticweb.org/in3067-inm713/restaurants#MushroomPizza preferred_label Mushroom pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#Oregano preferred_label Oregano
+http://www.semanticweb.org/in3067-inm713/restaurants#Provolone preferred_label Provolone
+http://www.semanticweb.org/in3067-inm713/restaurants#Rosemary preferred_label Rosemary
+http://www.semanticweb.org/in3067-inm713/restaurants#Salami preferred_label Salami
+http://www.semanticweb.org/in3067-inm713/restaurants#Pesto preferred_label Pesto
+http://www.semanticweb.org/in3067-inm713/restaurants#CrabMeat preferred_label Crab meat
+http://www.semanticweb.org/in3067-inm713/restaurants#GreekPizza preferred_label Greek pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#Fig preferred_label Fig
+http://www.semanticweb.org/in3067-inm713/restaurants#Shrimp preferred_label Shrimp
+http://www.semanticweb.org/in3067-inm713/restaurants#AmericanPizza preferred_label American pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#Onion preferred_label Onion
+http://www.semanticweb.org/in3067-inm713/restaurants#GreenPepper preferred_label Green pepper
+http://www.semanticweb.org/in3067-inm713/restaurants#PizzaRomana preferred_label Pizza Romana
+http://www.semanticweb.org/in3067-inm713/restaurants#CherryTomato preferred_label Cherry tomato
+http://www.semanticweb.org/in3067-inm713/restaurants#BarsPubsClubs preferred_label Bars, pubs and clubs
+http://www.semanticweb.org/in3067-inm713/restaurants#RedPepper preferred_label Red pepper
+http://www.semanticweb.org/in3067-inm713/restaurants#DaiyaCheese Daiya is a brand of dairy-free products
+http://www.semanticweb.org/in3067-inm713/restaurants#Pepperoni Pepperoni sausage
+http://www.semanticweb.org/in3067-inm713/restaurants#MeatPizza Meaty pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#Vegetable For simplicity, this ontology relies on the original meaning to refer to all edible plant matter, including the flowers, fruits, stems, leaves, roots, and seeds.
+http://www.semanticweb.org/in3067-inm713/restaurants#PizzaByIngredient Organized pizzas by ingredient
+http://www.semanticweb.org/in3067-inm713/restaurants#BeerPlace Beer tavern
+http://www.semanticweb.org/in3067-inm713/restaurants#Fruit For simplicity, this ontology relies on the common language usage of "fruit" (i.e., sweet fruit).
+http://www.semanticweb.org/in3067-inm713/restaurants#Pizzeria Pizza place
+http://www.semanticweb.org/in3067-inm713/restaurants#PizzaByStyle Organizes pizzas by their style
+http://www.semanticweb.org/in3067-inm713/restaurants#PizzaBianca White pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#PizzaBianca Pizza without tomato sauce
+http://www.semanticweb.org/in3067-inm713/restaurants#VeganCheese Dairy-free cheese
+http://www.semanticweb.org/in3067-inm713/restaurants#CoffeeShop Cafeteria
+http://www.semanticweb.org/in3067-inm713/restaurants#MushroomPizza Funghi pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#BarbecueSauce BBQ sauce
+http://www.semanticweb.org/in3067-inm713/restaurants#BarbecuePizza BBQ pizza
+http://www.semanticweb.org/in3067-inm713/restaurants#Bacon Pancetta
+http://www.semanticweb.org/in3067-inm713/restaurants#Eggplant Aubergine

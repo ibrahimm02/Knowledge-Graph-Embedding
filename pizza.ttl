@@ -933,7 +933,7 @@ pizza:MeatTopping rdf:type owl:Class ;
                   skos:prefLabel "Meat"@en .
 
 
-###  http://www.co-ode.org/ontologies/pizza/pizza.owl#MeatyPizza
+###  http://www.co-ode.org/ontologies/pizza/pizza.owl#t
 pizza:MeatyPizza rdf:type owl:Class ;
                  owl:equivalentClass [ owl:intersectionOf ( pizza:Pizza
                                                             [ rdf:type owl:Restriction ;
